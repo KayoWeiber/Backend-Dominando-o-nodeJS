@@ -7,7 +7,7 @@ server.get("/hello",(req ,res) => {
     const {nome,idade} = req.query
     return res.json({
         title:"Hello world",
-        message: `Olá ${nome}, tudo bem?`,
+        message: `Olá ${nome}, tudo bem com você?`,
         idade: idade
     })
 })
