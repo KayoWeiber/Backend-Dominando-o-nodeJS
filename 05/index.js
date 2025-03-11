@@ -20,6 +20,7 @@ server.get('/customers/:id', (req, res) => {
     const status = customer ? 200 : 404
     
     console.debug("GET :: /customers/:id", customer)
+    
     return res.status(status).json(customer);
 })
 
