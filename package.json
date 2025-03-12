@@ -11,6 +11,6 @@
   "devDependencies": {
     "nodemon": "^3.1.9"
   },"scripts": {
-    "dev": "nodemon 03/index.js"
+    "dev": "nodemon 06/src/server.js"
   }
 }
