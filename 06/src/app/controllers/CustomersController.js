@@ -49,4 +49,4 @@ class CustomersController{
         return res.status(status).json();
     }
 }
-module.exports = new CustomersController();
+export default new CustomersController();
