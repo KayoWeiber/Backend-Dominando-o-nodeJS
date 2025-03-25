@@ -1,32 +1,34 @@
-# Repositório de Estudos em Node.js
+# 📌 Repositório de Estudos em Node.js
 
-Este repositório foi criado com o objetivo de centralizar e compartilhar meu aprendizado sobre o Node.js, explorando conceitos, práticas e projetos.
+Este repositório centraliza meu aprendizado sobre Node.js, abordando conceitos essenciais, práticas recomendadas e projetos aplicados. Meu objetivo é consolidar conhecimento e compartilhar experiências adquiridas ao longo dos estudos.
 
 ## 📚 Conteúdos Abordados
 
-- Fundamentos do Node.js
-- Módulos e NPM
-- Manipulação de arquivos
+- Fundamentos do Node.js e arquitetura
+- Gerenciamento de pacotes com NPM e Yarn
+- Manipulação de arquivos e Streams
 - Criação de servidores HTTP
-- APIs RESTful com Express
-- Middleware
-- Conexão com bancos de dados (MySQL, MongoDB)
-- Autenticação e autorização
-- Tratamento de erros
-- Testes automatizados
+- Desenvolvimento de APIs RESTful com Express
+- Middleware e manipulação de requisições
+- Banco de dados com MySQL e MongoDB usando Sequelize e Mongoose
+- Autenticação e segurança com JWT e bcrypt
+- Tratamento de erros e logging
+- Testes automatizados com Jest e Supertest
+- Uso de Query Params e Routes
+- Conceito de REST e boas práticas para APIs
+- Migrations e modelagem de dados com Sequelize
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Node.js
-- Express.js
-- MySQL / MongoDB
-- JavaScript / TypeScript
+- **Linguagens:** JavaScript, TypeScript
+- **Frameworks e Bibliotecas:** Express.js, Sequelize, Mongoose
+- **Banco de Dados:** PostgreSQL, MongoDB
+- **Ferramentas:** Postman, Insomnia, Jest, Docker
 
+## 🚀 Anotações e Projetos
 
-## 📝 Anotações e Projetos
-
-- **Anotações:** Conceitos teóricos e exemplos práticos.
-- **Projetos:** Pequenos projetos práticos aplicando os conhecimentos adquiridos.
+- **Anotações:** Documentação detalhada de cada conceito estudado, incluindo exemplos práticos.
+- **Projetos:** Implementação de pequenas aplicações para testar e consolidar conhecimentos adquiridos.
 
 ## 📄 Licença
 
